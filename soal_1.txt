@@ -1,3 +1,27 @@
-Jawaban Soal 1 - UTS Kecerdasan Buatan
+Contoh aturan logikanya:
 
-(Disesuaikan dengan soal dan jawaban soal1.py)
+Gejala	Kesimpulan
+Daun menguning	Hama A
+Daun berlubang	Hama B
+Terdapat bercak hitam	Hama C
+Tanaman layu	Hama D
+Kalau ada lebih dari satu gejala
+Daun menguning + bercak hitam → Hama E (lebih parah)
+
+Pseudocode:
+1. Mulai
+2. Input gejala tanaman (contoh: daun menguning, bercak hitam)
+3. Periksa gejala:
+    - Jika daun menguning dan bercak hitam → Hama E
+    - Jika daun menguning → Hama A
+    - Jika daun berlubang → Hama B
+    - Jika bercak hitam → Hama C
+    - Jika tanaman layu → Hama D
+4. Tampilkan hasil deteksi
+5. Selesai
+
+Alur Inferensi:
+- User memberikan daftar gejala.
+- Program memproses gejala menggunakan struktur logika IF-ELSE.
+- Jika ada kombinasi gejala, program mendeteksi hama gabungan.
+- Program menampilkan nama hama berdasarkan gejala yang diinputkan.
