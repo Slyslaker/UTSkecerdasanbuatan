@@ -1,0 +1,3 @@
+Jawaban Soal 1 - UTS Kecerdasan Buatan
+
+(Disesuaikan dengan soal dan jawaban soal1.py)
