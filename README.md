@@ -1,4 +1,6 @@
 # UTS Kecerdasan Buatan
+NAMA : SULTHAN RAFI SYAUQI
+NIM : 2306055
 
 ## Soal 1: Sistem Pakar Deteksi Hama Tanaman
 
